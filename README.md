@@ -12,7 +12,7 @@ A Java implementation of the Knight's Tour algorithm. The knight's tour problem 
 
 # Documentation
 * [Download Project Proposal (.pdf | 401 KB)](bellmcp.github.io/work/knightstour_final.pdf)
-* [Download Keynote (.pdf | 401 KB)](bellmcp.github.io/work/knightstour_final.pdf)
+* [Download Keynote (.pdf | 7 MB)](bellmcp.github.io/work/knightstour_keynote.pdf)
 
 # What I Learned
 
