@@ -18,7 +18,7 @@ A Java implementation of the Knight's Tour algorithm. The knight's tour problem 
 
 # Future Ideas Include
 
-* Add an ability to customize.
+* Add an ability to customize a different sizes chessboards.
 * Implement other algorithms such as Brute-force algorithm, Common backtracking algorithm, Divide and conquer algorithms etc.
 * Improve performance and reliability.
 
