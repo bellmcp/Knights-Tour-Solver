@@ -14,13 +14,13 @@ A Java implementation of the Knight's Tour algorithm. The knight's tour problem 
 
 * Developed a user interface within the Windows Forms App (.NET Framework) using ToolStrip, TextBox, Label & Button.
 * Implemented functinality to the UI: `buttonClick`, `disableButtons`, `newGame`, & `resetCount`.
-* Integrated Tic Tac Toe logic strategy to the `winnerCheck` function. (based on [Wikipedia's strategy](https://en.wikipedia.org/wiki/Tic-tac-toe#Strategy))
+* Integrated Warnsdorff's rule algorithm to the program. [(Wikipedia)](https://en.wikipedia.org/wiki/Knight%27s_tour)
 
 # Future Ideas Include
 
-* Add an ability to have the X and O on the board be different colors.
-* Implement an unbeatable AI in single player mode.
-* Welcome screen to let player switch between single player and multiplayer mode.
+* Add an ability to customize.
+* Implement other algorithms such as Brute-force algorithm, Common backtracking algorithm, Divide and conquer algorithms etc.
+* Improve performance and reliability.
 
 # License
 
