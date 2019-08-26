@@ -12,14 +12,13 @@ A Java implementation of the Knight's Tour algorithm. The knight's tour problem 
 
 # What I Learned
 
-* Developed a user interface within the Windows Forms App (.NET Framework) using ToolStrip, TextBox, Label & Button.
-* Implemented functinality to the UI: `buttonClick`, `disableButtons`, `newGame`, & `resetCount`.
+* Developed a user interface within the Java GUI Application using NetBeans IDE components such as TextBox, Label, Buttons, Table, MessageBox, etc.
 * Integrated Warnsdorff's rule algorithm to the program. [(Wikipedia)](https://en.wikipedia.org/wiki/Knight%27s_tour)
 
 # Future Ideas Include
 
 * Add an ability to customize a different sizes chessboards.
-* Implement other algorithms such as Brute-force algorithm, Common backtracking algorithm, Divide and conquer algorithms etc.
+* Implement other algorithms such as Brute-force algorithm, Common backtracking algorithm, Divide and conquer algorithms, etc.
 * Improve performance and reliability.
 
 # License
