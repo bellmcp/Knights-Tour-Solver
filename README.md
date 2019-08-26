@@ -7,8 +7,8 @@ A Java implementation of the Knight's Tour algorithm. The knight's tour problem 
 
 # Resources
 
-* [Download Project (.rar | 471 KB)](https://bellmcp.github.io/work/TicTacToe.rar)
-* [Download .NET Framework 4.7.2 (Direct Link)](https://dotnet.microsoft.com/download/dotnet-framework/net472)
+* [Download Project (.jar | 233 KB)](bellmcp.github.io/work/KnightsTour_2.jar)
+* [Download Java Runtime Environment (Direct Link)](https://www.java.com/en/download/)
 
 # What I Learned
 
